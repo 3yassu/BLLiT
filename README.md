@@ -1,2 +1,2 @@
 # BLLIT
-- Novel LiDAR Thermal Strategy -
+\- Novel LiDAR Thermal Strategy -
