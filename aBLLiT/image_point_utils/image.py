@@ -1,0 +1,3 @@
+#image.py
+
+class Image:

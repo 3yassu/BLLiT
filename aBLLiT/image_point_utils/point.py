@@ -1,0 +1,3 @@
+#point.py
+
+class Point:
