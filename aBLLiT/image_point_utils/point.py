@@ -1,3 +1,0 @@
-#point.py
-
-class Point:
